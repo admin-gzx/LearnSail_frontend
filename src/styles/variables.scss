@@ -1,0 +1,51 @@
+/* 样式变量文件 */
+
+// 颜色变量
+$primary-color: #165dff; // 主色调：蓝色
+$text-color-primary: #1d2129; // 主要文本色：深灰
+$text-color-heading: $text-color-primary; // 标题文本色，使用主要文本色
+$primary-color-dark: #0e42c2; // 主色调深
+$secondary-color: #f2f3f5; // 辅助色：浅灰
+$secondary-color-dark: #e5e6eb; // 辅助色深
+$success-color: #00b42a; // 成功色：绿色
+$warning-color: #ff7d00; // 警告色：橙色
+$error-color: #f53f3f; // 错误色：红色
+$text-color-primary: #1d2129; // 主要文本色：深灰
+$text-color-secondary: #4e5969; // 次要文本色：中灰
+$text-color-tertiary: #86909c; // 第三文本色：浅灰
+$bg-color: #ffffff; // 背景色：白色
+$bg-color-secondary: #f7f8fa; // 次要背景色：超浅灰
+$border-color: #c9cdd4; // 边框色：浅灰
+
+// 字体变量
+$font-family-heading: 'Inter', sans-serif; // 标题字体
+$font-family-base: 'Roboto', sans-serif; // 正文字体
+
+// 字体大小变量
+$font-size-h1: 24px; // H1字体大小
+$font-size-h2: 20px; // H2字体大小
+$font-size-h3: 18px; // H3字体大小
+$font-size-h4: 16px; // H4字体大小
+$font-size-base: 14px; // 正文字体大小
+$font-size-small: 12px; // 小字体大小
+
+// 行高变量
+$line-height-base: 1.5; // 正文行高
+$line-height-heading: 1.2; // 标题行高
+
+// 间距变量
+$spacing-xs: 8px; // 超小间距
+$spacing-sm: 16px; // 小间距
+$spacing-md: 24px; // 中间距
+$spacing-lg: 32px; // 大间距
+$spacing-xl: 48px; // 超大间距
+
+// 边框半径
+$border-radius-sm: 4px; // 小边框半径
+$border-radius-md: 8px; // 中间框半径
+$border-radius-lg: 12px; // 大边框半径
+
+// 阴影
+$box-shadow-sm: 0 1px 2px rgba(0, 0, 0, 0.05); // 小阴影
+$box-shadow-md: 0 4px 6px rgba(0, 0, 0, 0.1); // 中阴影
+$box-shadow-lg: 0 10px 15px rgba(0, 0, 0, 0.1); // 大阴影
